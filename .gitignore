@@ -90,3 +90,6 @@ sw.*
 *.swp
 
 .vercel
+
+# Heroku
+.heroku/
